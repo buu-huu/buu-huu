@@ -5,9 +5,9 @@
 I'm providing bugs since 2010! Have fun with my code.
 
 ### What I like
-- ☣️ Malware
+- ☣️ Malware (Analysis)
 - 🕵🏻‍♀️ Forensics
-- 🎯 Threat Hunting
+- 🎯 Threat Hunting (CTI)
 - 📟 Embedded systems
 - 🌤️ Meteorology
 
