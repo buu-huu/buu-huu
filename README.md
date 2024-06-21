@@ -4,23 +4,25 @@
 
 I'm providing bugs since 2010! Have fun with my code.
 
-### What I like
+### What I do
 - ☣️ Malware (Analysis)
 - 🕵🏻‍♀️ Forensics
 - 🎯 Threat Hunting (CTI)
 - 📟 Embedded systems
 - 🌤️ Meteorology
 
-### Languages I prefer to use
+### Languages I mostly use
 - 🇬 Go
 - 🇷 Rust
 - 🇨 C/C++
 
 Have fun!
 
+[buuhuu.net](https://buuhuu.net)
+
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/buuhuuX.png)
 
-<p align="left"> <a href="https://twitter.com/buu_huu" target="blank"><img src="https://img.shields.io/twitter/follow/buu_huu?logo=twitter&style=for-the-badge" alt="buu_huu" /></a> </p>
+<p align="left"> <a href="https://x.com/buu_huu_" target="blank"><img src="https://img.shields.io/twitter/follow/buu_huu?logo=twitter&style=for-the-badge" alt="buu_huu" /></a> </p>
 
 <p float="left">
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
